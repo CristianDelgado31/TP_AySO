@@ -1,0 +1,111 @@
+exit
+ls
+cd repogit
+ls
+cd ..
+ls
+l
+ls
+la
+-la
+la
+ls
+exit
+la
+exit
+ls -la
+cd repogit/
+ls -la
+cd repo_delgado/
+ls -la
+cat saludo.txt 
+exit
+cat /etc/passwd | grep -v nologin | head | sort -t":" -k7
+cat /etc/passwd | grep -v nologin | head | sort -t: -k7 > lista_ordenada.txt
+clear
+ls
+cat lista_ordenada.txt 
+cat /etc/passwd | grep -v nologin | head
+clear
+git status
+git add .
+clear
+git commit -m "ADD: Listado de usuarios ordenada"
+clear
+ls
+clear
+ls -l
+clear
+ls
+clear
+echo "tcpdump"
+clear
+tcpdump -i any -n -c 10
+claer
+clear
+tcpdump
+clear
+echo "tcpdump" > comando_dump_net.txt
+clear
+ls
+cat comando_dump_net.txt 
+clear
+add .
+clear
+git add .
+git commit -m "ADD: Comando para Capturar y analizar el tráfico de red"
+clear
+ls
+cat README.md 
+clear
+echo "hola \nmundo"
+clear
+history
+clear
+echo -e "\nAlumno: Cristan Delgado\nDivisión: 115\nTurno: Mañana" >> README.md
+clear
+ls 
+cat README.md 
+clear
+git add .
+git commit -m "ADD: Información personal alumno"
+clear
+cat ..README.md
+clear
+cd ..
+ls
+cd ..
+ls
+cat README
+clear
+cd repogit/
+cd TP_AySO/
+clear
+ls
+cat ../../README
+clear
+history -r
+exit
+ls
+cd repogit
+ls
+cd ..
+ls
+l
+ls
+la
+-la
+la
+ls
+exit
+la
+exit
+ls -la
+cd repogit/
+ls -la
+cd repo_delgado/
+ls -la
+cat saludo.txt 
+exit
+clear
+history -a
